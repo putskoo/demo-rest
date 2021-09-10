@@ -1,1 +1,46 @@
-
+{
+  "accounts": [
+    {
+      "_id": "613b98bae33593115fa61fd3",
+      "index": 0,
+      "guid": "86c398a0-7d37-4192-8a14-51e6bd361c20",
+      "isActive": false,
+      "balance": "$2,296.94"
+    },
+    {
+      "_id": "613b98ba458f0df12b85c464",
+      "index": 1,
+      "guid": "cf693b7a-6abf-42b2-b5e5-a0890055fb48",
+      "isActive": false,
+      "balance": "$2,112.77"
+    },
+    {
+      "_id": "613b98ba9d858a0e7c7b2349",
+      "index": 2,
+      "guid": "7576da4d-fe34-488a-b839-93bbefb8bf30",
+      "isActive": false,
+      "balance": "$2,509.04"
+    },
+    {
+      "_id": "613b98ba62f023111bbacb6f",
+      "index": 3,
+      "guid": "653b9fa3-ef61-4371-b334-2bdb2e866209",
+      "isActive": true,
+      "balance": "$3,822.10"
+    },
+    {
+      "_id": "613b98bac7048781e560e4b1",
+      "index": 4,
+      "guid": "259457a6-5e2c-4f5f-8bd4-50f5565278dd",
+      "isActive": true,
+      "balance": "$2,862.08"
+    },
+    {
+      "_id": "613b98ba4de4ab033c1e7436",
+      "index": 5,
+      "guid": "e4a934f8-a5a7-40fd-b296-f4e8e10b75be",
+      "isActive": false,
+      "balance": "$3,209.37"
+    }
+  ]
+}
